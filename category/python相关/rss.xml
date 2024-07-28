@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Amos Yun的笔记空间 • Posts by &#34;python相关&#34; category</title>
-        <link>https://yun2060.github.io</link>
-        <description>欢迎来到Amos Yun的笔记空间😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉</description>
+        <title>Amos Yun的博客 • Posts by &#34;python相关&#34; category</title>
+        <link>https://Amos541.github.io</link>
+        <description>欢迎来到Amos Yun的博客😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉</description>
         <language>zh-CN</language>
         <pubDate>Sat, 20 Jan 2024 12:56:38 +0800</pubDate>
         <lastBuildDate>Sat, 20 Jan 2024 12:56:38 +0800</lastBuildDate>
@@ -18,9 +18,9 @@
         <category>Wallpaper</category>
         <category>Python</category>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/Python/python2/</guid>
+            <guid isPermalink="true">https://amos541.github.io/Python/python2/</guid>
             <title>Python中遇到的问题</title>
-            <link>https://yun2060.github.io/Python/python2/</link>
+            <link>https://amos541.github.io/Python/python2/</link>
             <category>遇到的问题</category>
             <category>Python</category>
             <pubDate>Sat, 20 Jan 2024 12:56:38 +0800</pubDate>
@@ -30,9 +30,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/Python/Python1/</guid>
+            <guid isPermalink="true">https://amos541.github.io/Python/Python1/</guid>
             <title>Hello Python</title>
-            <link>https://yun2060.github.io/Python/Python1/</link>
+            <link>https://amos541.github.io/Python/Python1/</link>
             <category>Python</category>
             <pubDate>Sat, 19 Aug 2023 11:10:53 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;hello-python&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hello-python&#34;&gt;#&lt;/a&gt; hello python&lt;/h1&gt;

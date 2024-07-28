@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yun2060.github.io</id>
-    <title>Amos Yun的笔记空间 • Posts by &#34;waline&#34; tag</title>
-    <link href="https://yun2060.github.io" />
+    <id>https://Amos541.github.io</id>
+    <title>Amos Yun的博客 • Posts by &#34;waline&#34; tag</title>
+    <link href="https://Amos541.github.io" />
     <updated>2024-01-24T09:06:21.000Z</updated>
     <category term="数据结构" />
     <category term="hexo" />
@@ -15,9 +15,9 @@
     <category term="Wallpaper" />
     <category term="Python" />
     <entry>
-        <id>https://yun2060.github.io/Hexo/%E5%B0%86shoka%E4%B8%BB%E9%A2%98%E4%B8%ADvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%8D%A2%E4%B8%BAwaline%E7%B3%BB%E7%BB%9F/</id>
+        <id>https://amos541.github.io/Hexo/%E5%B0%86shoka%E4%B8%BB%E9%A2%98%E4%B8%ADvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%8D%A2%E4%B8%BAwaline%E7%B3%BB%E7%BB%9F/</id>
         <title>将shoka主题中valine评论系统更换为waline系统</title>
-        <link rel="alternate" href="https://yun2060.github.io/Hexo/%E5%B0%86shoka%E4%B8%BB%E9%A2%98%E4%B8%ADvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%8D%A2%E4%B8%BAwaline%E7%B3%BB%E7%BB%9F/"/>
+        <link rel="alternate" href="https://amos541.github.io/Hexo/%E5%B0%86shoka%E4%B8%BB%E9%A2%98%E4%B8%ADvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%8D%A2%E4%B8%BAwaline%E7%B3%BB%E7%BB%9F/"/>
         <content type="html">&lt;h2 id=&#34;在shoka中添增waline评论系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#在shoka中添增waline评论系统&#34;&gt;#&lt;/a&gt; 在 Shoka 中添增 Waline 评论系统&lt;/h2&gt;
 &lt;p&gt;Shoka 主题使用的 MiniValine 是一个足够使用的评论系统，但是常说 Valine 评论系统对于安全问题欠妥，其可定制和功能也稍显不足。所以就跟着下面这篇大佬的文章，来添增 waline 评论系统。&lt;br /&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9yeS5tay8yMDIyLzAzLzA2L3dhbGluZS8=&#34;&gt;文章链接&lt;/span&gt;&lt;/p&gt;

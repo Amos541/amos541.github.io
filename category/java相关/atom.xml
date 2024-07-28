@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yun2060.github.io</id>
-    <title>Amos Yun的笔记空间 • Posts by &#34;java相关&#34; category</title>
-    <link href="https://yun2060.github.io" />
+    <id>https://Amos541.github.io</id>
+    <title>Amos Yun的博客 • Posts by &#34;java相关&#34; category</title>
+    <link href="https://Amos541.github.io" />
     <updated>2023-08-19T03:11:22.271Z</updated>
     <category term="数据结构" />
     <category term="hexo" />
@@ -15,9 +15,9 @@
     <category term="Wallpaper" />
     <category term="Python" />
     <entry>
-        <id>https://yun2060.github.io/Java/Java1/</id>
+        <id>https://amos541.github.io/Java/Java1/</id>
         <title>Hello Java</title>
-        <link rel="alternate" href="https://yun2060.github.io/Java/Java1/"/>
+        <link rel="alternate" href="https://amos541.github.io/Java/Java1/"/>
         <content type="html">&lt;h1 id=&#34;hello-java&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hello-java&#34;&gt;#&lt;/a&gt; hello java!&lt;/h1&gt;
 </content>
         <category term="Java" />

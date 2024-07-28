@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Amos Yun的笔记空间</title>
-        <link>https://yun2060.github.io</link>
-        <description>欢迎来到Amos Yun的笔记空间😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉</description>
+        <title>Amos Yun的博客</title>
+        <link>https://Amos541.github.io</link>
+        <description>欢迎来到Amos Yun的博客😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉</description>
         <language>zh-CN</language>
         <pubDate>Wed, 24 Jan 2024 21:53:54 +0800</pubDate>
         <lastBuildDate>Wed, 24 Jan 2024 21:53:54 +0800</lastBuildDate>
@@ -18,9 +18,9 @@
         <category>Wallpaper</category>
         <category>Python</category>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
+            <guid isPermalink="true">https://amos541.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
             <title>关于如何解决github直连失败的方法</title>
-            <link>https://yun2060.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/</link>
+            <link>https://amos541.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/</link>
             <category>教程</category>
             <category>github</category>
             <pubDate>Wed, 24 Jan 2024 21:53:54 +0800</pubDate>
@@ -38,9 +38,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/Hexo/%E5%B0%86shoka%E4%B8%BB%E9%A2%98%E4%B8%ADvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%8D%A2%E4%B8%BAwaline%E7%B3%BB%E7%BB%9F/</guid>
+            <guid isPermalink="true">https://amos541.github.io/Hexo/%E5%B0%86shoka%E4%B8%BB%E9%A2%98%E4%B8%ADvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%8D%A2%E4%B8%BAwaline%E7%B3%BB%E7%BB%9F/</guid>
             <title>将shoka主题中valine评论系统更换为waline系统</title>
-            <link>https://yun2060.github.io/Hexo/%E5%B0%86shoka%E4%B8%BB%E9%A2%98%E4%B8%ADvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%8D%A2%E4%B8%BAwaline%E7%B3%BB%E7%BB%9F/</link>
+            <link>https://amos541.github.io/Hexo/%E5%B0%86shoka%E4%B8%BB%E9%A2%98%E4%B8%ADvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%8D%A2%E4%B8%BAwaline%E7%B3%BB%E7%BB%9F/</link>
             <category>Hexo</category>
             <category>waline</category>
             <category>遇到的问题</category>
@@ -57,9 +57,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/Hexo/%E4%BD%BF%E7%94%A8hexo%E5%91%BD%E4%BB%A4%E5%88%9B%E5%BB%BA%E6%96%B0%E6%96%87%E7%AB%A0/</guid>
+            <guid isPermalink="true">https://amos541.github.io/Hexo/%E4%BD%BF%E7%94%A8hexo%E5%91%BD%E4%BB%A4%E5%88%9B%E5%BB%BA%E6%96%B0%E6%96%87%E7%AB%A0/</guid>
             <title>使用hexo命令创建新文章</title>
-            <link>https://yun2060.github.io/Hexo/%E4%BD%BF%E7%94%A8hexo%E5%91%BD%E4%BB%A4%E5%88%9B%E5%BB%BA%E6%96%B0%E6%96%87%E7%AB%A0/</link>
+            <link>https://amos541.github.io/Hexo/%E4%BD%BF%E7%94%A8hexo%E5%91%BD%E4%BB%A4%E5%88%9B%E5%BB%BA%E6%96%B0%E6%96%87%E7%AB%A0/</link>
             <category>Hexo</category>
             <category>教程</category>
             <pubDate>Tue, 23 Jan 2024 14:41:10 +0800</pubDate>
@@ -77,9 +77,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/Others/%E6%8F%90%E5%8F%96wallpaper%E5%A3%81%E7%BA%B8/</guid>
+            <guid isPermalink="true">https://amos541.github.io/Others/%E6%8F%90%E5%8F%96wallpaper%E5%A3%81%E7%BA%B8/</guid>
             <title>提取wallpaper静态壁纸</title>
-            <link>https://yun2060.github.io/Others/%E6%8F%90%E5%8F%96wallpaper%E5%A3%81%E7%BA%B8/</link>
+            <link>https://amos541.github.io/Others/%E6%8F%90%E5%8F%96wallpaper%E5%A3%81%E7%BA%B8/</link>
             <category>教程</category>
             <category>Wallpaper</category>
             <pubDate>Mon, 22 Jan 2024 12:32:09 +0800</pubDate>
@@ -105,9 +105,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/Python/python2/</guid>
+            <guid isPermalink="true">https://amos541.github.io/Python/python2/</guid>
             <title>Python中遇到的问题</title>
-            <link>https://yun2060.github.io/Python/python2/</link>
+            <link>https://amos541.github.io/Python/python2/</link>
             <category>遇到的问题</category>
             <category>Python</category>
             <pubDate>Sat, 20 Jan 2024 12:56:38 +0800</pubDate>
@@ -117,35 +117,35 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%9D%E8%AF%86/</guid>
+            <guid isPermalink="true">https://amos541.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%9D%E8%AF%86/</guid>
             <title>数据结构初识</title>
-            <link>https://yun2060.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%9D%E8%AF%86/</link>
+            <link>https://amos541.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%9D%E8%AF%86/</link>
             <category>数据结构</category>
             <pubDate>Wed, 23 Aug 2023 16:01:14 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/Java/Java1/</guid>
+            <guid isPermalink="true">https://amos541.github.io/Java/Java1/</guid>
             <title>Hello Java</title>
-            <link>https://yun2060.github.io/Java/Java1/</link>
+            <link>https://amos541.github.io/Java/Java1/</link>
             <category>Java</category>
             <pubDate>Sat, 19 Aug 2023 11:11:22 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;hello-java&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hello-java&#34;&gt;#&lt;/a&gt; hello java!&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/Python/Python1/</guid>
+            <guid isPermalink="true">https://amos541.github.io/Python/Python1/</guid>
             <title>Hello Python</title>
-            <link>https://yun2060.github.io/Python/Python1/</link>
+            <link>https://amos541.github.io/Python/Python1/</link>
             <category>Python</category>
             <pubDate>Sat, 19 Aug 2023 11:10:53 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;hello-python&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hello-python&#34;&gt;#&lt;/a&gt; hello python&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/Hexo/hello-world/</guid>
+            <guid isPermalink="true">https://amos541.github.io/Hexo/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://yun2060.github.io/Hexo/hello-world/</link>
+            <link>https://amos541.github.io/Hexo/hello-world/</link>
             <category>hexo</category>
             <pubDate>Mon, 14 Aug 2023 20:44:29 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;

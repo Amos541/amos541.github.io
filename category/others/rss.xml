@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Amos Yun的笔记空间 • Posts by &#34;others&#34; category</title>
-        <link>https://yun2060.github.io</link>
-        <description>欢迎来到Amos Yun的笔记空间😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉</description>
+        <title>Amos Yun的博客 • Posts by &#34;others&#34; category</title>
+        <link>https://Amos541.github.io</link>
+        <description>欢迎来到Amos Yun的博客😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉</description>
         <language>zh-CN</language>
         <pubDate>Wed, 24 Jan 2024 21:53:54 +0800</pubDate>
         <lastBuildDate>Wed, 24 Jan 2024 21:53:54 +0800</lastBuildDate>
@@ -18,9 +18,9 @@
         <category>Wallpaper</category>
         <category>Python</category>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
+            <guid isPermalink="true">https://amos541.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
             <title>关于如何解决github直连失败的方法</title>
-            <link>https://yun2060.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/</link>
+            <link>https://amos541.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/</link>
             <category>教程</category>
             <category>github</category>
             <pubDate>Wed, 24 Jan 2024 21:53:54 +0800</pubDate>

@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Amos Yun的笔记空间 • All posts by \"java相关\" category",
-    "description": "欢迎来到Amos Yun的笔记空间😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉",
-    "home_page_url": "https://yun2060.github.io",
+    "title": "Amos Yun的博客 • All posts by \"java相关\" category",
+    "description": "欢迎来到Amos Yun的博客😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉",
+    "home_page_url": "https://Amos541.github.io",
     "items": [
         {
-            "id": "https://yun2060.github.io/Java/Java1/",
-            "url": "https://yun2060.github.io/Java/Java1/",
+            "id": "https://amos541.github.io/Java/Java1/",
+            "url": "https://amos541.github.io/Java/Java1/",
             "title": "Hello Java",
             "date_published": "2023-08-19T03:11:22.271Z",
             "content_html": "<h1 id=\"hello-java\"><a class=\"anchor\" href=\"#hello-java\">#</a> hello java!</h1>\n",

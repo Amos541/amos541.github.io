@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yun2060.github.io</id>
-    <title>Amos Yun的笔记空间 • Posts by &#34;python相关&#34; category</title>
-    <link href="https://yun2060.github.io" />
+    <id>https://Amos541.github.io</id>
+    <title>Amos Yun的博客 • Posts by &#34;python相关&#34; category</title>
+    <link href="https://Amos541.github.io" />
     <updated>2024-01-20T04:56:38.713Z</updated>
     <category term="数据结构" />
     <category term="hexo" />
@@ -15,9 +15,9 @@
     <category term="Wallpaper" />
     <category term="Python" />
     <entry>
-        <id>https://yun2060.github.io/Python/python2/</id>
+        <id>https://amos541.github.io/Python/python2/</id>
         <title>Python中遇到的问题</title>
-        <link rel="alternate" href="https://yun2060.github.io/Python/python2/"/>
+        <link rel="alternate" href="https://amos541.github.io/Python/python2/"/>
         <content type="html">&lt;h1 id=&#34;解决切换python仓库的问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决切换python仓库的问题&#34;&gt;#&lt;/a&gt; 解决切换 python 仓库的问题&lt;/h1&gt;
 &lt;p&gt;今天在 vscode 中使用 python 时发现一个问题，很多包在 1 号仓库中拥有，而常用的却是 2 号仓库，所以就想切换一下，但是意外发现自己连切换仓库都不会了，于是打算记录一下。&lt;/p&gt;
 &lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h2&gt;
@@ -27,9 +27,9 @@
         <updated>2024-01-20T04:56:38.713Z</updated>
     </entry>
     <entry>
-        <id>https://yun2060.github.io/Python/Python1/</id>
+        <id>https://amos541.github.io/Python/Python1/</id>
         <title>Hello Python</title>
-        <link rel="alternate" href="https://yun2060.github.io/Python/Python1/"/>
+        <link rel="alternate" href="https://amos541.github.io/Python/Python1/"/>
         <content type="html">&lt;h1 id=&#34;hello-python&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hello-python&#34;&gt;#&lt;/a&gt; hello python&lt;/h1&gt;
 </content>
         <category term="Python" />

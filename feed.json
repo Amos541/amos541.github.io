@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Amos Yun的笔记空间",
-    "description": "欢迎来到Amos Yun的笔记空间😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉",
-    "home_page_url": "https://yun2060.github.io",
+    "title": "Amos Yun的博客",
+    "description": "欢迎来到Amos Yun的博客😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉",
+    "home_page_url": "https://Amos541.github.io",
     "items": [
         {
-            "id": "https://yun2060.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/",
-            "url": "https://yun2060.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/",
+            "id": "https://amos541.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/",
+            "url": "https://amos541.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/",
             "title": "关于如何解决github直连失败的方法",
             "date_published": "2024-01-24T13:53:54.000Z",
             "content_html": "<h2 id=\"介绍\"><a class=\"anchor\" href=\"#介绍\">#</a> 介绍</h2>\n<p>昨天一个朋友来问我有没有什么简单的方法能够直连 GitHub，对于我来说，我就是两种：使用软件 steam++ 和使用 clash 小猫来进行代理访问。</p>\n<h2 id=\"watt-toolkitsteam简介\"><a class=\"anchor\" href=\"#watt-toolkitsteam简介\">#</a> Watt Toolkit (Steam++) 简介</h2>\n<p>Steam++ 现更名为 Watt Toolkit 并在 Microsoft Store 中已可用。<br />\n<span class=\"exturl\" data-url=\"aHR0cHM6Ly9zdGVhbXBwLm5ldC8=\">官方网址</span> <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL0JleW9uZERpbWVuc2lvbi9TdGVhbVRvb2xz\">开源地址</span><br />\n「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。这款开源软件使用 Titanium-Web-Proxy 开源项目进行本地反代，来实现加速。<br />\n<img data-src=\"steam++.png\" alt=\"steam++\" /></p>\n<h2 id=\"clash简介\"><a class=\"anchor\" href=\"#clash简介\">#</a> Clash 简介</h2>\n<p>Clash 是一个开源的代理工具，可用于代理访问网站。这种类似的代理工具还有很多，网上一搜便知，这里就不放出链接了。</p>\n<h2 id=\"完结\"><a class=\"anchor\" href=\"#完结\">#</a> 完结</h2>\n<p>最后，其实网上还有很多教程教大家如何解决 github 直连失败的方法，互联网还是很强大的。有问题欢迎来评论区留言。</p>\n",
@@ -16,8 +16,8 @@
             ]
         },
         {
-            "id": "https://yun2060.github.io/Hexo/%E5%B0%86shoka%E4%B8%BB%E9%A2%98%E4%B8%ADvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%8D%A2%E4%B8%BAwaline%E7%B3%BB%E7%BB%9F/",
-            "url": "https://yun2060.github.io/Hexo/%E5%B0%86shoka%E4%B8%BB%E9%A2%98%E4%B8%ADvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%8D%A2%E4%B8%BAwaline%E7%B3%BB%E7%BB%9F/",
+            "id": "https://amos541.github.io/Hexo/%E5%B0%86shoka%E4%B8%BB%E9%A2%98%E4%B8%ADvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%8D%A2%E4%B8%BAwaline%E7%B3%BB%E7%BB%9F/",
+            "url": "https://amos541.github.io/Hexo/%E5%B0%86shoka%E4%B8%BB%E9%A2%98%E4%B8%ADvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%8D%A2%E4%B8%BAwaline%E7%B3%BB%E7%BB%9F/",
             "title": "将shoka主题中valine评论系统更换为waline系统",
             "date_published": "2024-01-24T09:06:21.000Z",
             "content_html": "<h2 id=\"在shoka中添增waline评论系统\"><a class=\"anchor\" href=\"#在shoka中添增waline评论系统\">#</a> 在 Shoka 中添增 Waline 评论系统</h2>\n<p>Shoka 主题使用的 MiniValine 是一个足够使用的评论系统，但是常说 Valine 评论系统对于安全问题欠妥，其可定制和功能也稍显不足。所以就跟着下面这篇大佬的文章，来添增 waline 评论系统。<br />\n<span class=\"exturl\" data-url=\"aHR0cHM6Ly9yeS5tay8yMDIyLzAzLzA2L3dhbGluZS8=\">文章链接</span></p>\n<h2 id=\"遇到的问题\"><a class=\"anchor\" href=\"#遇到的问题\">#</a> 遇到的问题</h2>\n<p>在更换 waline 评论系统之后，我发现本地调试时没有问题，可一旦部署到 github 上后，就会出现评论区消失的情况，底部的最新评论栏也不见了。<br />\n说来奇怪，在我想复现时，却怎么也无法复现了，再次刷新之后便会发现评论区又出现了。。。<br />\n但是最近评论栏仍然无法显示，不知道为什么。</p>\n<h2 id=\"解决方法\"><a class=\"anchor\" href=\"#解决方法\">#</a> 解决方法</h2>\n<p>暂时没有好办法，等我再好好研究一下吧 /(ㄒ o ㄒ)/~~</p>\n",
@@ -28,8 +28,8 @@
             ]
         },
         {
-            "id": "https://yun2060.github.io/Hexo/%E4%BD%BF%E7%94%A8hexo%E5%91%BD%E4%BB%A4%E5%88%9B%E5%BB%BA%E6%96%B0%E6%96%87%E7%AB%A0/",
-            "url": "https://yun2060.github.io/Hexo/%E4%BD%BF%E7%94%A8hexo%E5%91%BD%E4%BB%A4%E5%88%9B%E5%BB%BA%E6%96%B0%E6%96%87%E7%AB%A0/",
+            "id": "https://amos541.github.io/Hexo/%E4%BD%BF%E7%94%A8hexo%E5%91%BD%E4%BB%A4%E5%88%9B%E5%BB%BA%E6%96%B0%E6%96%87%E7%AB%A0/",
+            "url": "https://amos541.github.io/Hexo/%E4%BD%BF%E7%94%A8hexo%E5%91%BD%E4%BB%A4%E5%88%9B%E5%BB%BA%E6%96%B0%E6%96%87%E7%AB%A0/",
             "title": "使用hexo命令创建新文章",
             "date_published": "2024-01-23T06:41:10.000Z",
             "content_html": "<h2 id=\"224更新\"><a class=\"anchor\" href=\"#224更新\">#</a> 2.24 更新</h2>\n<p>使用 <code>hexo new --path &quot;文章标题&quot;</code>  来创建新文章，这样可以直接对应路径下创建，而不需要拖入操作。</p>\n<h2 id=\"使用hexo命令创建新文章\"><a class=\"anchor\" href=\"#使用hexo命令创建新文章\">#</a> 使用 hexo 命令创建新文章</h2>\n<p>之前一直都是直接创建文件夹的方式来写文章，但是会有各种各样的 bug。去网上搜了下发现直接使用 hexo 命令是最简单的方法，于是这次用 hexo 来创建新文章。</p>\n<h3 id=\"使用命令\"><a class=\"anchor\" href=\"#使用命令\">#</a> 使用命令</h3>\n<p><code>hexo new &quot;文章标题&quot;</code></p>\n<h3 id=\"使用说明\"><a class=\"anchor\" href=\"#使用说明\">#</a> 使用说明</h3>\n<p>由于我有时会有图片说明，所以开启了 hexo 的资源引用功能。将_config.yml 中的 <code>post_asset_folder</code>  设置为 <code>true</code>  即可。</p>\n<figure class=\"highlight yaml\"><figcaption data-lang=\"YAML\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token key atrule\">post_asset_folder</span><span class=\"token punctuation\">:</span> <span class=\"token boolean important\">true</span></pre></td></tr></table></figure><p>这样使用命令创建 md 文件的同时也会在 <code>source/_posts</code>  文件夹下创建一个文件夹，文件夹名为 <code>文章标题</code> 。之后我再将文件拖入对应的分类即可。<br />\n<img data-src=\"docs.png\" alt=\"文件分布\" /><br />\n最后生成部署，一气呵成，但是应该有更便捷的方法，我暂时还不清楚😭，等之后再进行学习修改吧。</p>\n",
@@ -39,8 +39,8 @@
             ]
         },
         {
-            "id": "https://yun2060.github.io/Others/%E6%8F%90%E5%8F%96wallpaper%E5%A3%81%E7%BA%B8/",
-            "url": "https://yun2060.github.io/Others/%E6%8F%90%E5%8F%96wallpaper%E5%A3%81%E7%BA%B8/",
+            "id": "https://amos541.github.io/Others/%E6%8F%90%E5%8F%96wallpaper%E5%A3%81%E7%BA%B8/",
+            "url": "https://amos541.github.io/Others/%E6%8F%90%E5%8F%96wallpaper%E5%A3%81%E7%BA%B8/",
             "title": "提取wallpaper静态壁纸",
             "date_published": "2024-01-22T04:32:09.390Z",
             "content_html": "<h1 id=\"提取wallpaper静态壁纸\"><a class=\"anchor\" href=\"#提取wallpaper静态壁纸\">#</a> 提取 wallpaper 静态壁纸</h1>\n<p>电脑配置很低，如果一直开着 WallpaperEngine 也是十分消耗资源，于是想着将好看的静态壁纸提取出来，上网搜了一下发现大家都在使用 repkg 来实现，于是就有了这篇文章。</p>\n<h2 id=\"准备工作\"><a class=\"anchor\" href=\"#准备工作\">#</a> 准备工作</h2>\n<p>1. 下载 repkg，<span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL25vdHNjdWZmZWQvcmVwa2c=\">Github 链接</span>。<br />\n<img data-src=\"relese.png\" alt=\"release界面\" /><br />\n 2. 准备好需要提取的壁纸。</p>\n<h2 id=\"使用步骤\"><a class=\"anchor\" href=\"#使用步骤\">#</a> 使用步骤</h2>\n<p>1. 把下载的 repkg.exe 放入一个空文件夹，可以在文件路径下新建一个输出文件夹，命名为 output。<br />\n<img data-src=\"repkg.png\" alt=\"repkg文件夹\" /><br />\n 2. 在 repkg 文件夹下按住 shift 点击右键，打开 powershell。<br />\n<img data-src=\"menu_expoler.png\" alt=\"文件管理右键菜单\" /><br />\n 3. 打开需要提取的壁纸文件夹，找到对应的 pkg 文件。<br />\n<img data-src=\"menu_wallpaper.png\" alt=\"壁纸右键菜单\" /><br />\n<img data-src=\"pkg.png\" alt=\"pkg文件\" /><br />\n 4. 在 powershell 中输入 <code>.\\repkg.exe extract</code> , 然后把 pkg 文件拖入 powershell 窗口中，补上命令 <code>-o .\\output</code>  后回车（注意箭头处要有空格）。<br />\n<img data-src=\"powershell.png\" alt=\"powershell\" /><br />\n5. 成功后会在 output 文件夹下生成一个壁纸文件夹，里面有提取出来的壁纸。<br />\n<img data-src=\"success.png\" alt=\"success\" /><br />\n<img data-src=\"wallpaper.png\" alt=\"wallpaper\" /></p>\n",
@@ -50,8 +50,8 @@
             ]
         },
         {
-            "id": "https://yun2060.github.io/Python/python2/",
-            "url": "https://yun2060.github.io/Python/python2/",
+            "id": "https://amos541.github.io/Python/python2/",
+            "url": "https://amos541.github.io/Python/python2/",
             "title": "Python中遇到的问题",
             "date_published": "2024-01-20T04:56:38.713Z",
             "content_html": "<h1 id=\"解决切换python仓库的问题\"><a class=\"anchor\" href=\"#解决切换python仓库的问题\">#</a> 解决切换 python 仓库的问题</h1>\n<p>今天在 vscode 中使用 python 时发现一个问题，很多包在 1 号仓库中拥有，而常用的却是 2 号仓库，所以就想切换一下，但是意外发现自己连切换仓库都不会了，于是打算记录一下。</p>\n<h2 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h2>\n",
@@ -61,8 +61,8 @@
             ]
         },
         {
-            "id": "https://yun2060.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%9D%E8%AF%86/",
-            "url": "https://yun2060.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%9D%E8%AF%86/",
+            "id": "https://amos541.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%9D%E8%AF%86/",
+            "url": "https://amos541.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%9D%E8%AF%86/",
             "title": "数据结构初识",
             "date_published": "2023-08-23T08:01:14.239Z",
             "content_html": "",
@@ -71,8 +71,8 @@
             ]
         },
         {
-            "id": "https://yun2060.github.io/Java/Java1/",
-            "url": "https://yun2060.github.io/Java/Java1/",
+            "id": "https://amos541.github.io/Java/Java1/",
+            "url": "https://amos541.github.io/Java/Java1/",
             "title": "Hello Java",
             "date_published": "2023-08-19T03:11:22.271Z",
             "content_html": "<h1 id=\"hello-java\"><a class=\"anchor\" href=\"#hello-java\">#</a> hello java!</h1>\n",
@@ -81,8 +81,8 @@
             ]
         },
         {
-            "id": "https://yun2060.github.io/Python/Python1/",
-            "url": "https://yun2060.github.io/Python/Python1/",
+            "id": "https://amos541.github.io/Python/Python1/",
+            "url": "https://amos541.github.io/Python/Python1/",
             "title": "Hello Python",
             "date_published": "2023-08-19T03:10:53.584Z",
             "content_html": "<h1 id=\"hello-python\"><a class=\"anchor\" href=\"#hello-python\">#</a> hello python</h1>\n",
@@ -91,8 +91,8 @@
             ]
         },
         {
-            "id": "https://yun2060.github.io/Hexo/hello-world/",
-            "url": "https://yun2060.github.io/Hexo/hello-world/",
+            "id": "https://amos541.github.io/Hexo/hello-world/",
+            "url": "https://amos541.github.io/Hexo/hello-world/",
             "title": "Hello World",
             "date_published": "2023-08-14T12:44:29.442Z",
             "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo new <span class=\"token string\">\"My New Post\"</span></pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",

@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Amos Yun的笔记空间 • Posts by &#34;java相关&#34; category</title>
-        <link>https://yun2060.github.io</link>
-        <description>欢迎来到Amos Yun的笔记空间😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉</description>
+        <title>Amos Yun的博客 • Posts by &#34;java相关&#34; category</title>
+        <link>https://Amos541.github.io</link>
+        <description>欢迎来到Amos Yun的博客😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉</description>
         <language>zh-CN</language>
         <pubDate>Sat, 19 Aug 2023 11:11:22 +0800</pubDate>
         <lastBuildDate>Sat, 19 Aug 2023 11:11:22 +0800</lastBuildDate>
@@ -18,9 +18,9 @@
         <category>Wallpaper</category>
         <category>Python</category>
         <item>
-            <guid isPermalink="true">https://yun2060.github.io/Java/Java1/</guid>
+            <guid isPermalink="true">https://amos541.github.io/Java/Java1/</guid>
             <title>Hello Java</title>
-            <link>https://yun2060.github.io/Java/Java1/</link>
+            <link>https://amos541.github.io/Java/Java1/</link>
             <category>Java</category>
             <pubDate>Sat, 19 Aug 2023 11:11:22 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;hello-java&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hello-java&#34;&gt;#&lt;/a&gt; hello java!&lt;/h1&gt;

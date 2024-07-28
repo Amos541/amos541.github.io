@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yun2060.github.io</id>
-    <title>Amos Yun的笔记空间 • Posts by &#34;wallpaper&#34; tag</title>
-    <link href="https://yun2060.github.io" />
+    <id>https://Amos541.github.io</id>
+    <title>Amos Yun的博客 • Posts by &#34;wallpaper&#34; tag</title>
+    <link href="https://Amos541.github.io" />
     <updated>2024-01-22T04:32:09.390Z</updated>
     <category term="数据结构" />
     <category term="hexo" />
@@ -15,9 +15,9 @@
     <category term="Wallpaper" />
     <category term="Python" />
     <entry>
-        <id>https://yun2060.github.io/Others/%E6%8F%90%E5%8F%96wallpaper%E5%A3%81%E7%BA%B8/</id>
+        <id>https://amos541.github.io/Others/%E6%8F%90%E5%8F%96wallpaper%E5%A3%81%E7%BA%B8/</id>
         <title>提取wallpaper静态壁纸</title>
-        <link rel="alternate" href="https://yun2060.github.io/Others/%E6%8F%90%E5%8F%96wallpaper%E5%A3%81%E7%BA%B8/"/>
+        <link rel="alternate" href="https://amos541.github.io/Others/%E6%8F%90%E5%8F%96wallpaper%E5%A3%81%E7%BA%B8/"/>
         <content type="html">&lt;h1 id=&#34;提取wallpaper静态壁纸&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#提取wallpaper静态壁纸&#34;&gt;#&lt;/a&gt; 提取 wallpaper 静态壁纸&lt;/h1&gt;
 &lt;p&gt;电脑配置很低，如果一直开着 WallpaperEngine 也是十分消耗资源，于是想着将好看的静态壁纸提取出来，上网搜了一下发现大家都在使用 repkg 来实现，于是就有了这篇文章。&lt;/p&gt;
 &lt;h2 id=&#34;准备工作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#准备工作&#34;&gt;#&lt;/a&gt; 准备工作&lt;/h2&gt;

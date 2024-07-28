@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Amos Yun的笔记空间 • All posts by \"python相关\" category",
-    "description": "欢迎来到Amos Yun的笔记空间😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉",
-    "home_page_url": "https://yun2060.github.io",
+    "title": "Amos Yun的博客 • All posts by \"python相关\" category",
+    "description": "欢迎来到Amos Yun的博客😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉",
+    "home_page_url": "https://Amos541.github.io",
     "items": [
         {
-            "id": "https://yun2060.github.io/Python/python2/",
-            "url": "https://yun2060.github.io/Python/python2/",
+            "id": "https://amos541.github.io/Python/python2/",
+            "url": "https://amos541.github.io/Python/python2/",
             "title": "Python中遇到的问题",
             "date_published": "2024-01-20T04:56:38.713Z",
             "content_html": "<h1 id=\"解决切换python仓库的问题\"><a class=\"anchor\" href=\"#解决切换python仓库的问题\">#</a> 解决切换 python 仓库的问题</h1>\n<p>今天在 vscode 中使用 python 时发现一个问题，很多包在 1 号仓库中拥有，而常用的却是 2 号仓库，所以就想切换一下，但是意外发现自己连切换仓库都不会了，于是打算记录一下。</p>\n<h2 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h2>\n",
@@ -16,8 +16,8 @@
             ]
         },
         {
-            "id": "https://yun2060.github.io/Python/Python1/",
-            "url": "https://yun2060.github.io/Python/Python1/",
+            "id": "https://amos541.github.io/Python/Python1/",
+            "url": "https://amos541.github.io/Python/Python1/",
             "title": "Hello Python",
             "date_published": "2023-08-19T03:10:53.584Z",
             "content_html": "<h1 id=\"hello-python\"><a class=\"anchor\" href=\"#hello-python\">#</a> hello python</h1>\n",

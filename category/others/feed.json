@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Amos Yun的笔记空间 • All posts by \"others\" category",
-    "description": "欢迎来到Amos Yun的笔记空间😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉",
-    "home_page_url": "https://yun2060.github.io",
+    "title": "Amos Yun的博客 • All posts by \"others\" category",
+    "description": "欢迎来到Amos Yun的博客😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉",
+    "home_page_url": "https://Amos541.github.io",
     "items": [
         {
-            "id": "https://yun2060.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/",
-            "url": "https://yun2060.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/",
+            "id": "https://amos541.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/",
+            "url": "https://amos541.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/",
             "title": "关于如何解决github直连失败的方法",
             "date_published": "2024-01-24T13:53:54.000Z",
             "content_html": "<h2 id=\"介绍\"><a class=\"anchor\" href=\"#介绍\">#</a> 介绍</h2>\n<p>昨天一个朋友来问我有没有什么简单的方法能够直连 GitHub，对于我来说，我就是两种：使用软件 steam++ 和使用 clash 小猫来进行代理访问。</p>\n<h2 id=\"watt-toolkitsteam简介\"><a class=\"anchor\" href=\"#watt-toolkitsteam简介\">#</a> Watt Toolkit (Steam++) 简介</h2>\n<p>Steam++ 现更名为 Watt Toolkit 并在 Microsoft Store 中已可用。<br />\n<span class=\"exturl\" data-url=\"aHR0cHM6Ly9zdGVhbXBwLm5ldC8=\">官方网址</span> <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL0JleW9uZERpbWVuc2lvbi9TdGVhbVRvb2xz\">开源地址</span><br />\n「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。这款开源软件使用 Titanium-Web-Proxy 开源项目进行本地反代，来实现加速。<br />\n<img data-src=\"steam++.png\" alt=\"steam++\" /></p>\n<h2 id=\"clash简介\"><a class=\"anchor\" href=\"#clash简介\">#</a> Clash 简介</h2>\n<p>Clash 是一个开源的代理工具，可用于代理访问网站。这种类似的代理工具还有很多，网上一搜便知，这里就不放出链接了。</p>\n<h2 id=\"完结\"><a class=\"anchor\" href=\"#完结\">#</a> 完结</h2>\n<p>最后，其实网上还有很多教程教大家如何解决 github 直连失败的方法，互联网还是很强大的。有问题欢迎来评论区留言。</p>\n",
