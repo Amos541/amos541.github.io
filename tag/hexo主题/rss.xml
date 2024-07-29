@@ -8,11 +8,11 @@
         <pubDate>Sun, 28 Jul 2024 16:06:08 +0800</pubDate>
         <lastBuildDate>Sun, 28 Jul 2024 16:06:08 +0800</lastBuildDate>
         <category>数据结构</category>
-        <category>hexo</category>
-        <category>hexo主题</category>
-        <category>shoka</category>
         <category>Hexo</category>
         <category>教程</category>
+        <category>Algolia搜索</category>
+        <category>Hexo主题</category>
+        <category>Shoka</category>
         <category>waline</category>
         <category>遇到的问题</category>
         <category>Java</category>
@@ -23,8 +23,9 @@
             <guid isPermalink="true">https://amos541.github.io/Hexo/shoka%E4%B8%BB%E9%A2%98%E4%BB%8B%E7%BB%8D/</guid>
             <title>shoka主题介绍</title>
             <link>https://amos541.github.io/Hexo/shoka%E4%B8%BB%E9%A2%98%E4%BB%8B%E7%BB%8D/</link>
-            <category>hexo主题</category>
-            <category>shoka</category>
+            <category>Hexo</category>
+            <category>Hexo主题</category>
+            <category>Shoka</category>
             <pubDate>Sun, 28 Jul 2024 16:06:08 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;在安装部署 Hexo 之后，目前的博客页面还是相当简洁。Hexo 作为一款优秀的静态站点生成器，提供了丰富的主题和插件供你选择，以满足不同的审美和功能需求。在这里，我将以本站所使用的 &amp;quot;Shoka&amp;quot; 主题为例，详细介绍其安装和配置过程。当然，如果你对其他主题或自定义主题感兴趣，也是完全可行的；不过每个主题的配置和所需插件可能会有所不同，这就需要你根据具体情况自行探索了。&lt;/p&gt;

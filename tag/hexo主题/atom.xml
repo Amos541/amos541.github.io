@@ -5,11 +5,11 @@
     <link href="https://Amos541.github.io" />
     <updated>2024-07-28T08:06:08.000Z</updated>
     <category term="数据结构" />
-    <category term="hexo" />
-    <category term="hexo主题" />
-    <category term="shoka" />
     <category term="Hexo" />
     <category term="教程" />
+    <category term="Algolia搜索" />
+    <category term="Hexo主题" />
+    <category term="Shoka" />
     <category term="waline" />
     <category term="遇到的问题" />
     <category term="Java" />
@@ -50,8 +50,9 @@
 &lt;img data-src=&#34;config.png&#34; alt=&#34;hexo配置&#34; /&gt;&lt;br /&gt;
 现在在根目录下执行 &lt;code&gt;hexo g &amp;amp;&amp;amp; hexo s&lt;/code&gt;  命令，去看看效果吧！&lt;/p&gt;
 </content>
-        <category term="hexo主题" />
-        <category term="shoka" />
+        <category term="Hexo" />
+        <category term="Hexo主题" />
+        <category term="Shoka" />
         <updated>2024-07-28T08:06:08.000Z</updated>
     </entry>
 </feed>
