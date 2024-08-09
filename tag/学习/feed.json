@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Amos Yun的博客 • All posts by \"学习\" tag",
+    "description": "欢迎来到Amos Yun的博客😏在这里，你可以阅读我的学习笔记并提出独到的见解🤩欢迎互相交流学习知识，共同进步🎉",
+    "home_page_url": "https://Amos541.github.io",
+    "items": [
+        {
+            "id": "https://amos541.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89/",
+            "url": "https://amos541.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89/",
+            "title": "数据结构学习（一）",
+            "date_published": "2024-08-09T12:45:57.000Z",
+            "content_html": "<h2 id=\"数据结构基本概念\"><a class=\"anchor\" href=\"#数据结构基本概念\">#</a> 数据结构基本概念</h2>\n<ol>\n<li>数据\n<ul>\n<li>数据是能输入计算机并且能被计算机处理的各种符号的集合</li>\n<li>数据是信息的载体</li>\n<li>数据是对客观事物符号化的表示</li>\n<li>数据能够被计算机识别、存储和加工</li>\n</ul>\n</li>\n<li>数据元素（Data Element）\n<ul>\n<li>数据元素是数据的基本单位，通常作为一个整体进行考虑和处理</li>\n</ul>\n</li>\n<li>数据项（Data Item）\n<ul>\n<li>一个数据元素由若干个数据项组成</li>\n<li>数据项是数据元素的不可分割的<strong>最小</strong>单位</li>\n</ul>\n</li>\n<li>数据对象（Data Object）\n<ul>\n<li>数据对象是具有相同性质的数据元素的集合，是数据的一个子集</li>\n</ul>\n</li>\n<li>数据结构（Data Structure）\n<ul>\n<li>数据结构是相互之间存在的一种或多种特定关系的数据元素的集合</li>\n</ul>\n</li>\n</ol>\n<h2 id=\"数据结构三要素\"><a class=\"anchor\" href=\"#数据结构三要素\">#</a> 数据结构三要素</h2>\n<ul>\n<li>逻辑结构：从逻辑关系上描述数据，与数据的存储无关，它是从具体问题抽象出来的数学模型。</li>\n<li>物理结构（存储结构）：数据元素及其关系在计算机中内存中的存储形式（又称映像）。</li>\n<li>数据的运算：数据上的某些操作，包括：增删改查排序等。</li>\n</ul>\n<h3 id=\"逻辑结构的种类划分方法一\"><a class=\"anchor\" href=\"#逻辑结构的种类划分方法一\">#</a> 逻辑结构的种类：划分方法一</h3>\n<p>线性结构：<br />\n- 有且仅有一个开始和一个终端结点，并且所有结点都最多只有一个直接前驱和一个后继。<br />\n- 例如：线性表、栈、队列、串<br />\n非线性结构：<br />\n- 一个结点可能有多个直接前驱和直接后继。<br />\n- 例如：树、图</p>\n<h3 id=\"逻辑结构的种类划分方法二\"><a class=\"anchor\" href=\"#逻辑结构的种类划分方法二\">#</a> 逻辑结构的种类：划分方法二</h3>\n<p>集合：<br />\n- 数据元素之间除了 “同属于一个集合” 之外，没有其他关系。<br />\n线性结构：<br />\n- 一个对一个的线性关系，如线性表、栈、队列<br />\n树形结构：<br />\n- 一个对多个的层次关系<br />\n图形结构：<br />\n- 多个对多个的任意关系</p>\n<h3 id=\"物理结构存储结构的分类\"><a class=\"anchor\" href=\"#物理结构存储结构的分类\">#</a> 物理结构（存储结构）的分类</h3>\n<p>顺序存储结构<br />\n链式存储结构<br />\n索引存储结构，如汉语字典<br />\n散列存储结构（哈希），通过计算之后找到指定位置</p>\n<h2 id=\"抽象数据类型\"><a class=\"anchor\" href=\"#抽象数据类型\">#</a> 抽象数据类型</h2>\n<ol>\n<li>抽象数据类型定义\n<ul>\n<li>数据类型：是一个值得集合和定义在此值集上得一组操作的总称。<br />\n按 “值” 的不同特性数据类型可分为（高级程序语言）：<br />\n(1) 原子类型：其值不可再分的数据类型<br />\n C 语言：char、int、float、double、void<br />\n (2) 结构类型：其值可再分解为若干成分的数据类型  <figure class=\"highlight c\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"class\"><span class=\"keyword\">struct</span> <span class=\"title\">Customer</span>&#123;</span></span><br><span class=\"line\">    <span class=\"type\">int</span> num;</span><br><span class=\"line\">    <span class=\"type\">int</span> people;</span><br><span class=\"line\">    ···</span><br><span class=\"line\">&#125;</span><br></pre></td></tr></table></figure>\n</li>\n</ul>\n</li>\n</ol>\n",
+            "tags": [
+                "数据结构",
+                "学习"
+            ]
+        }
+    ]
+}

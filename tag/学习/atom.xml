@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Amos541.github.io</id>
+    <title>Amos Yun的博客 • Posts by &#34;学习&#34; tag</title>
+    <link href="https://Amos541.github.io" />
+    <updated>2024-08-09T12:45:57.000Z</updated>
+    <category term="数据结构" />
+    <category term="学习" />
+    <category term="Hexo" />
+    <category term="教程" />
+    <category term="Algolia搜索" />
+    <category term="Hexo主题" />
+    <category term="Shoka" />
+    <category term="waline" />
+    <category term="遇到的问题" />
+    <category term="Java" />
+    <category term="Python" />
+    <category term="github" />
+    <category term="Wallpaper" />
+    <entry>
+        <id>https://amos541.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+        <title>数据结构学习（一）</title>
+        <link rel="alternate" href="https://amos541.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+        <content type="html">&lt;h2 id=&#34;数据结构基本概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据结构基本概念&#34;&gt;#&lt;/a&gt; 数据结构基本概念&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;数据
+&lt;ul&gt;
+&lt;li&gt;数据是能输入计算机并且能被计算机处理的各种符号的集合&lt;/li&gt;
+&lt;li&gt;数据是信息的载体&lt;/li&gt;
+&lt;li&gt;数据是对客观事物符号化的表示&lt;/li&gt;
+&lt;li&gt;数据能够被计算机识别、存储和加工&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数据元素（Data Element）
+&lt;ul&gt;
+&lt;li&gt;数据元素是数据的基本单位，通常作为一个整体进行考虑和处理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数据项（Data Item）
+&lt;ul&gt;
+&lt;li&gt;一个数据元素由若干个数据项组成&lt;/li&gt;
+&lt;li&gt;数据项是数据元素的不可分割的&lt;strong&gt;最小&lt;/strong&gt;单位&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数据对象（Data Object）
+&lt;ul&gt;
+&lt;li&gt;数据对象是具有相同性质的数据元素的集合，是数据的一个子集&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数据结构（Data Structure）
+&lt;ul&gt;
+&lt;li&gt;数据结构是相互之间存在的一种或多种特定关系的数据元素的集合&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;数据结构三要素&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据结构三要素&#34;&gt;#&lt;/a&gt; 数据结构三要素&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;逻辑结构：从逻辑关系上描述数据，与数据的存储无关，它是从具体问题抽象出来的数学模型。&lt;/li&gt;
+&lt;li&gt;物理结构（存储结构）：数据元素及其关系在计算机中内存中的存储形式（又称映像）。&lt;/li&gt;
+&lt;li&gt;数据的运算：数据上的某些操作，包括：增删改查排序等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;逻辑结构的种类划分方法一&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#逻辑结构的种类划分方法一&#34;&gt;#&lt;/a&gt; 逻辑结构的种类：划分方法一&lt;/h3&gt;
+&lt;p&gt;线性结构：&lt;br /&gt;
+- 有且仅有一个开始和一个终端结点，并且所有结点都最多只有一个直接前驱和一个后继。&lt;br /&gt;
+- 例如：线性表、栈、队列、串&lt;br /&gt;
+非线性结构：&lt;br /&gt;
+- 一个结点可能有多个直接前驱和直接后继。&lt;br /&gt;
+- 例如：树、图&lt;/p&gt;
+&lt;h3 id=&#34;逻辑结构的种类划分方法二&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#逻辑结构的种类划分方法二&#34;&gt;#&lt;/a&gt; 逻辑结构的种类：划分方法二&lt;/h3&gt;
+&lt;p&gt;集合：&lt;br /&gt;
+- 数据元素之间除了 “同属于一个集合” 之外，没有其他关系。&lt;br /&gt;
+线性结构：&lt;br /&gt;
+- 一个对一个的线性关系，如线性表、栈、队列&lt;br /&gt;
+树形结构：&lt;br /&gt;
+- 一个对多个的层次关系&lt;br /&gt;
+图形结构：&lt;br /&gt;
+- 多个对多个的任意关系&lt;/p&gt;
+&lt;h3 id=&#34;物理结构存储结构的分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#物理结构存储结构的分类&#34;&gt;#&lt;/a&gt; 物理结构（存储结构）的分类&lt;/h3&gt;
+&lt;p&gt;顺序存储结构&lt;br /&gt;
+链式存储结构&lt;br /&gt;
+索引存储结构，如汉语字典&lt;br /&gt;
+散列存储结构（哈希），通过计算之后找到指定位置&lt;/p&gt;
+&lt;h2 id=&#34;抽象数据类型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#抽象数据类型&#34;&gt;#&lt;/a&gt; 抽象数据类型&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;抽象数据类型定义
+&lt;ul&gt;
+&lt;li&gt;数据类型：是一个值得集合和定义在此值集上得一组操作的总称。&lt;br /&gt;
+按 “值” 的不同特性数据类型可分为（高级程序语言）：&lt;br /&gt;
+(1) 原子类型：其值不可再分的数据类型&lt;br /&gt;
+ C 语言：char、int、float、double、void&lt;br /&gt;
+ (2) 结构类型：其值可再分解为若干成分的数据类型  &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;class&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;Customer&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; num;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; people;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ···&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="数据结构" />
+        <category term="学习" />
+        <updated>2024-08-09T12:45:57.000Z</updated>
+    </entry>
+</feed>

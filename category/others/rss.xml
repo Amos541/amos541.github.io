@@ -8,6 +8,7 @@
         <pubDate>Wed, 24 Jan 2024 21:53:54 +0800</pubDate>
         <lastBuildDate>Wed, 24 Jan 2024 21:53:54 +0800</lastBuildDate>
         <category>数据结构</category>
+        <category>学习</category>
         <category>Hexo</category>
         <category>教程</category>
         <category>Algolia搜索</category>
@@ -16,9 +17,9 @@
         <category>waline</category>
         <category>遇到的问题</category>
         <category>Java</category>
+        <category>Python</category>
         <category>github</category>
         <category>Wallpaper</category>
-        <category>Python</category>
         <item>
             <guid isPermalink="true">https://amos541.github.io/Others/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3github%E7%9B%B4%E8%BF%9E%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
             <title>关于如何解决github直连失败的方法</title>

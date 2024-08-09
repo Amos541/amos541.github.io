@@ -3,8 +3,9 @@
     <id>https://Amos541.github.io</id>
     <title>Amos Yun的博客 • Posts by &#34;数据结构&#34; category</title>
     <link href="https://Amos541.github.io" />
-    <updated>2023-08-23T08:01:14.239Z</updated>
+    <updated>2024-08-09T12:45:57.000Z</updated>
     <category term="数据结构" />
+    <category term="学习" />
     <category term="Hexo" />
     <category term="教程" />
     <category term="Algolia搜索" />
@@ -13,15 +14,150 @@
     <category term="waline" />
     <category term="遇到的问题" />
     <category term="Java" />
+    <category term="Python" />
     <category term="github" />
     <category term="Wallpaper" />
-    <category term="Python" />
+    <entry>
+        <id>https://amos541.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+        <title>数据结构学习（一）</title>
+        <link rel="alternate" href="https://amos541.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+        <content type="html">&lt;h2 id=&#34;数据结构基本概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据结构基本概念&#34;&gt;#&lt;/a&gt; 数据结构基本概念&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;数据
+&lt;ul&gt;
+&lt;li&gt;数据是能输入计算机并且能被计算机处理的各种符号的集合&lt;/li&gt;
+&lt;li&gt;数据是信息的载体&lt;/li&gt;
+&lt;li&gt;数据是对客观事物符号化的表示&lt;/li&gt;
+&lt;li&gt;数据能够被计算机识别、存储和加工&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数据元素（Data Element）
+&lt;ul&gt;
+&lt;li&gt;数据元素是数据的基本单位，通常作为一个整体进行考虑和处理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数据项（Data Item）
+&lt;ul&gt;
+&lt;li&gt;一个数据元素由若干个数据项组成&lt;/li&gt;
+&lt;li&gt;数据项是数据元素的不可分割的&lt;strong&gt;最小&lt;/strong&gt;单位&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数据对象（Data Object）
+&lt;ul&gt;
+&lt;li&gt;数据对象是具有相同性质的数据元素的集合，是数据的一个子集&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数据结构（Data Structure）
+&lt;ul&gt;
+&lt;li&gt;数据结构是相互之间存在的一种或多种特定关系的数据元素的集合&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;数据结构三要素&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据结构三要素&#34;&gt;#&lt;/a&gt; 数据结构三要素&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;逻辑结构：从逻辑关系上描述数据，与数据的存储无关，它是从具体问题抽象出来的数学模型。&lt;/li&gt;
+&lt;li&gt;物理结构（存储结构）：数据元素及其关系在计算机中内存中的存储形式（又称映像）。&lt;/li&gt;
+&lt;li&gt;数据的运算：数据上的某些操作，包括：增删改查排序等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;逻辑结构的种类划分方法一&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#逻辑结构的种类划分方法一&#34;&gt;#&lt;/a&gt; 逻辑结构的种类：划分方法一&lt;/h3&gt;
+&lt;p&gt;线性结构：&lt;br /&gt;
+- 有且仅有一个开始和一个终端结点，并且所有结点都最多只有一个直接前驱和一个后继。&lt;br /&gt;
+- 例如：线性表、栈、队列、串&lt;br /&gt;
+非线性结构：&lt;br /&gt;
+- 一个结点可能有多个直接前驱和直接后继。&lt;br /&gt;
+- 例如：树、图&lt;/p&gt;
+&lt;h3 id=&#34;逻辑结构的种类划分方法二&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#逻辑结构的种类划分方法二&#34;&gt;#&lt;/a&gt; 逻辑结构的种类：划分方法二&lt;/h3&gt;
+&lt;p&gt;集合：&lt;br /&gt;
+- 数据元素之间除了 “同属于一个集合” 之外，没有其他关系。&lt;br /&gt;
+线性结构：&lt;br /&gt;
+- 一个对一个的线性关系，如线性表、栈、队列&lt;br /&gt;
+树形结构：&lt;br /&gt;
+- 一个对多个的层次关系&lt;br /&gt;
+图形结构：&lt;br /&gt;
+- 多个对多个的任意关系&lt;/p&gt;
+&lt;h3 id=&#34;物理结构存储结构的分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#物理结构存储结构的分类&#34;&gt;#&lt;/a&gt; 物理结构（存储结构）的分类&lt;/h3&gt;
+&lt;p&gt;顺序存储结构&lt;br /&gt;
+链式存储结构&lt;br /&gt;
+索引存储结构，如汉语字典&lt;br /&gt;
+散列存储结构（哈希），通过计算之后找到指定位置&lt;/p&gt;
+&lt;h2 id=&#34;抽象数据类型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#抽象数据类型&#34;&gt;#&lt;/a&gt; 抽象数据类型&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;抽象数据类型定义
+&lt;ul&gt;
+&lt;li&gt;数据类型：是一个值得集合和定义在此值集上得一组操作的总称。&lt;br /&gt;
+按 “值” 的不同特性数据类型可分为（高级程序语言）：&lt;br /&gt;
+(1) 原子类型：其值不可再分的数据类型&lt;br /&gt;
+ C 语言：char、int、float、double、void&lt;br /&gt;
+ (2) 结构类型：其值可再分解为若干成分的数据类型  &lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;class&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;Customer&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; num;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; people;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ···&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="数据结构" />
+        <category term="学习" />
+        <updated>2024-08-09T12:45:57.000Z</updated>
+    </entry>
     <entry>
         <id>https://amos541.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%9D%E8%AF%86/</id>
         <title>数据结构初识</title>
         <link rel="alternate" href="https://amos541.github.io/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%9D%E8%AF%86/"/>
-        <content type="html"></content>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.png&#34; alt=&#34;数据结构&#34; /&gt;&lt;br /&gt;
+数据结构（data structure）是组织和存储数据的方式，涵盖数据内容、数据之间关系和数据操作方法，它具有以下设计目标。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;空间占用尽量少，以节省计算机内存。&lt;/li&gt;
+&lt;li&gt;数据操作尽可能快速，涵盖数据访问、添加、删除、更新等。&lt;/li&gt;
+&lt;li&gt;提供简洁的数据表示和逻辑信息，以便算法高效运行。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;数据结构设计是一个充满权衡的过程&lt;/strong&gt;。如果想在某方面取得提升，往往需要在另一方面作出妥协。下面举两个例子。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;链表相较于数组，在数据添加和删除操作上更加便捷，但牺牲了数据访问速度。&lt;/li&gt;
+&lt;li&gt;图相较于链表，提供了更丰富的逻辑信息，但需要占用更大的内存空间。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;数据结构与算法高度相关、紧密结合，具体表现在以下三个方面。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数据结构是算法的基石。数据结构为算法提供了结构化存储的数据，以及操作数据的方法。&lt;/li&gt;
+&lt;li&gt;算法是数据结构发挥作用的舞台。数据结构本身仅存储数据信息，结合算法才能解决特定问题。&lt;/li&gt;
+&lt;li&gt;算法通常可以基于不同的数据结构实现，但执行效率可能相差很大，选择合适的数据结构是关键。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;复杂度分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#复杂度分析&#34;&gt;#&lt;/a&gt; 复杂度分析&lt;/h2&gt;
+&lt;p&gt;在能够解决问题的前提下，算法效率已成为衡量算法优劣的主要评价指标，它包括以下两个维度。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;时间效率&lt;/strong&gt;：算法运行时间的长短。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;空间效率&lt;/strong&gt;：算法占用内存空间的大小。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;迭代&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#迭代&#34;&gt;#&lt;/a&gt; 迭代&lt;/h3&gt;
+&lt;p&gt;for 循环&lt;br /&gt;
+ &lt;code&gt;for&lt;/code&gt;  循环是最常见的迭代形式之一，&lt;strong&gt;适合在预先知道迭代次数时使用&lt;/strong&gt;。&lt;br /&gt;
+while 循环&lt;br /&gt;
+ &lt;code&gt;while&lt;/code&gt;  循环也是一种实现迭代的方法。在  &lt;code&gt;while&lt;/code&gt;  循环中，程序每轮都会先检查条件，如果条件为真，则继续执行，否则就结束循环。&lt;br /&gt;
+嵌套循环&lt;br /&gt;
+在一个循环结构内嵌套另一个循环结构。&lt;/p&gt;
+&lt;h3 id=&#34;递归&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#递归&#34;&gt;#&lt;/a&gt; 递归&lt;/h3&gt;
+&lt;p&gt;递归（recursion）是一种算法策略，通过函数调用自身来解决问题。它主要包含两个阶段。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;递&lt;/strong&gt;：程序不断深入地调用自身，通常传入更小或更简化的参数，直到达到 “终止条件”。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;归&lt;/strong&gt;：触发 “终止条件” 后，程序从最深层的递归函数开始逐层返回，汇聚每一层的结果。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;而从实现的角度看，递归代码主要包含三个要素。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;终止条件&lt;/strong&gt;：用于决定什么时候由 “递” 转 “归”。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;递归调用&lt;/strong&gt;：对应 “递”，函数调用自身，通常输入更小或更简化的参数。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;返回结果&lt;/strong&gt;：对应 “归”，将当前递归层级的结果返回至上一层。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;迭代和递归比较&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#迭代和递归比较&#34;&gt;#&lt;/a&gt; 迭代和递归比较&lt;/h3&gt;
+&lt;p&gt;虽然从计算角度看，迭代与递归可以得到相同的结果，&lt;strong&gt;但它们代表了两种完全不同的思考和解决问题的范式&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;迭代&lt;/strong&gt;：“自下而上” 地解决问题。从最基础的步骤开始，然后不断重复或累加这些步骤，直到任务完成。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;递归&lt;/strong&gt;：“自上而下” 地解决问题。将原问题分解为更小的子问题，这些子问题和原问题具有相同的形式。接下来将子问题继续分解为更小的子问题，直到基本情况时停止（基本情况的解是已知的）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上述求和函数为例，设问题 𝑓(𝑛)=1+2+⋯+𝑛 。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;迭代&lt;/strong&gt;：在循环中模拟求和过程，从 1 遍历到 𝑛 ，每轮执行求和操作，即可求得 𝑓(𝑛) 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;递归&lt;/strong&gt;：将问题分解为子问题 𝑓(𝑛)=𝑛+𝑓(𝑛−1) ，不断（递归地）分解下去，直至基本情况 𝑓(1)=1 时终止。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
         <category term="数据结构" />
-        <updated>2023-08-23T08:01:14.239Z</updated>
+        <updated>2024-01-01T01:19:50.000Z</updated>
     </entry>
 </feed>
